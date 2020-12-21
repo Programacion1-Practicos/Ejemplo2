@@ -1,4 +1,4 @@
-#Ejemplo 2
+# Ejemplo 2
 
 Escribe el código que falta para que:
 
