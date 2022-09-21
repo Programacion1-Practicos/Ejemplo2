@@ -1,8 +1,8 @@
 # Ejemplo 2
 
-Escribe el código que falta para que:
+Escribe el código que falta para que diga:
 
-Diga Hola mundo!! en vez de "Hello Programación2 de nuevo!"
+Hola mundo!! en vez de "Hello Programación1!"
 
 Pregunte el nombre y la edad y guarde dichos datos
 
